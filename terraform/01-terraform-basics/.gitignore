@@ -1,0 +1,20 @@
+#compiled output
+/dist
+/tmp
+/out-tsc
+
+
+
+
+#terraform excludes
+*.tfstate
+*.tfstate.backup
+*.terraform
+
+#IDES  & EDITORS
+/ idea
+.project
+.classpath
+
+
+
